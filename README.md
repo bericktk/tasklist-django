@@ -10,7 +10,7 @@ https://youtu.be/BKrRR6-SM2c
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Foi utilizado as ferramentas abaixo para a construção do projeto.
 
 * Django- O framework web usado
 * HTML e CSS - Front - End
