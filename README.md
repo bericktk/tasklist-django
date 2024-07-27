@@ -6,7 +6,7 @@ Abaxio uma pequena demonstração do projeto.
 
 ## 🚀 Vídeo de Apresentação do Projeto
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=BKrRR6-SM2c&ab_channel=BerickTK" target="_blank">
+<a href="(https://www.youtube.com/watch?v=BKrRR6-SM2c&ab_channel=BerickTK)" target="_blank">
   <img src="(https://github.com/user-attachments/assets/1e1953c0-cd5b-4665-b65b-a7e25febfec8)" alt="Video Apresentação do Projeto Task List">
 </a>
 
