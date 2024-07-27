@@ -8,7 +8,7 @@ Abaxio uma pequena demonstração do projeto.
 
 
 
-[https://youtu.be/BKrRR6-SM2c]!Assista ao vídeo
+[![Rick Astley - Never Gonna Give You Up](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## 🛠️ Construído com
