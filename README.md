@@ -1,6 +1,8 @@
 # TaskList em Django
 
-Um pequeno projeto para estudo do framework Django!
+Um pequeno projeto para estudo do framework Django! Criação de uma TaskList onde o usuário pode se cadastrar para ter sua própria área de tarefas, onde o mesmo pode adicionar, atualizar, excluir e informar se está completa ou não.
+
+Abaxio uma pequena demonstração do projeto.
 
 ## 🚀 Vídeo de Apresentação do Projeto
 
