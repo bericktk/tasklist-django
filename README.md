@@ -6,10 +6,9 @@ Abaxio uma pequena demonstração do projeto.
 
 ## 🚀 Vídeo de Apresentação do Projeto
 
-
-
-[![Rick Astley - Never Gonna Give You Up](https://github.com/user-attachments/assets/ad28b60c-4aab-4f92-b5d8-03b7ddb98d6f)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=BKrRR6-SM2c&ab_channel=BerickTK))
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=BKrRR6-SM2c&ab_channel=BerickTK" target="_blank">
+  <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg](https://github.com/user-attachments/assets/ad28b60c-4aab-4f92-b5d8-03b7ddb98d6f" alt="Video Apresentação do Projeto Task List">
+</a>
 
 ## 🛠️ Construído com
 
