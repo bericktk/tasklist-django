@@ -1,0 +1,152 @@
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #023047
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-color: #480ca8;
+}
+
+#login-area{
+    max-width: 100%;
+}
+
+#login-area h2{
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+    font-size: 2.3em;
+}
+
+#login-area label{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#login-area input{
+    display: block;
+    padding: 15px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-radius: 4px;
+    transition: all linear 160ms;
+    outline: none;
+}
+
+#login-area input:focus{
+    border: 1px solid #f72585;
+}
+
+#form-login {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 7px;
+    padding: 40px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+    gap: 5px
+}
+
+.botoes{
+    display: inline-block;
+}
+
+.btn-login, .btn-register{
+    background-color: #f72585;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border: none !important;
+    transition: all linear 160ms;
+    cursor: pointer;
+    margin: 0 !important;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-login:hover, .btn-register:hover {
+    transform: scale(1.05);
+    background-color: #ff0676;
+}
+
+.btn-register a{
+    text-decoration: none;
+    color: #fff;
+}
+
+/*----------------------------add_task-------------------------------------*/
+.add-form{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 7px;
+    padding: 40px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+    gap: 5px
+}
+
+.add-form input{
+    display: block;
+    padding: 15px;
+    font-size: 14px;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-radius: 4px;
+    transition: all linear 160ms;
+    outline: none;
+}
+
+.add-form input:focus{
+    border: 1px solid #f72585;
+}
+
+.add-task{
+    background-color: #f72585;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border: none !important;
+    transition: all linear 160ms;
+    cursor: pointer;
+    margin: 0 !important;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.add-task:hover{
+    background-color: darkgreen;
+}
+
+.btn-back{
+    background-color: #f72585;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border: none !important;
+    transition: all linear 160ms;
+    cursor: pointer;
+    margin: 0 !important;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-back:hover{
+    background-color: #d60606;
+}
+
+.btn-back a{
+    color: #fff;
+    text-decoration: none;
+}

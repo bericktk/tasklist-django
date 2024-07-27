@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="{% static 'tasks/style.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'tasks/login.css' %}">
+    <title>Adicionar Tarefas</title>
+</head>
+<body>
+    <main class="page">
+        <section class="tasks">
+            <h1>Adicionar Tarefas</h1>
+            <form class="add-form" method="post">
+                {% csrf_token %}
+                <input type="text" name="title" placeholder="Adicione uma Tarefa" required>
+                <button class="add-task" type="submit">Adicionar</button>
+                <button class="btn-back"><a href="{% url 'index' %}">Voltar</a></button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>

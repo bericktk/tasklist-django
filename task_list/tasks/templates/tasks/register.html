@@ -1,0 +1,23 @@
+{% load crispy_forms_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'tasks/login.css' %}">
+</head>
+<body>
+    <main class="page">
+        <section id="login-area">
+            <form id="form-login" method="post">
+                <h2>Cadastro</h2>
+                {% csrf_token %}
+                {{ form|crispy }}
+                <div class="botoes">
+                <button type="submit" class="btn-login">Cadastrar</button>
+                <button class="btn-register"><a href="{% url 'login' %}">Login</a></button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>
